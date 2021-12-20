@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T09:02:17.131Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" version="15.7.0" etag="e5u8SOiNCubwFgSu-xoL" type="github"><diagram id="-iUneC9kxmW2oVpqolXo">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-20T09:31:19.737Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="skPoxqHSB_CuxQTnJD1x" version="15.7.0" type="github">
+  <diagram id="-iUneC9kxmW2oVpqolXo" name="Page-1">
+    <mxGraphModel dx="1350" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kl-o_SOFlpKdgM1ggIpI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kl-o_SOFlpKdgM1ggIpI-1" target="kl-o_SOFlpKdgM1ggIpI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kl-o_SOFlpKdgM1ggIpI-1" value="加载目录文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kl-o_SOFlpKdgM1ggIpI-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kl-o_SOFlpKdgM1ggIpI-4" target="kl-o_SOFlpKdgM1ggIpI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kl-o_SOFlpKdgM1ggIpI-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kl-o_SOFlpKdgM1ggIpI-4" target="kl-o_SOFlpKdgM1ggIpI-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kl-o_SOFlpKdgM1ggIpI-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kl-o_SOFlpKdgM1ggIpI-4" target="kl-o_SOFlpKdgM1ggIpI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kl-o_SOFlpKdgM1ggIpI-4" value="判断类型" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kl-o_SOFlpKdgM1ggIpI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kl-o_SOFlpKdgM1ggIpI-6" target="kl-o_SOFlpKdgM1ggIpI-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kl-o_SOFlpKdgM1ggIpI-6" value="baloo加载type文件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kl-o_SOFlpKdgM1ggIpI-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kl-o_SOFlpKdgM1ggIpI-8" target="kl-o_SOFlpKdgM1ggIpI-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kl-o_SOFlpKdgM1ggIpI-8" value="Kio加载本地文件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kl-o_SOFlpKdgM1ggIpI-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kl-o_SOFlpKdgM1ggIpI-10" target="kl-o_SOFlpKdgM1ggIpI-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kl-o_SOFlpKdgM1ggIpI-10" value="加载tag文件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kl-o_SOFlpKdgM1ggIpI-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kl-o_SOFlpKdgM1ggIpI-12" target="kl-o_SOFlpKdgM1ggIpI-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kl-o_SOFlpKdgM1ggIpI-12" value="排序" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kl-o_SOFlpKdgM1ggIpI-14" value="刷新数据" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kl-o_SOFlpKdgM1ggIpI-16" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;异步加载&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="140" y="300" width="590" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="kl-o_SOFlpKdgM1ggIpI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kl-o_SOFlpKdgM1ggIpI-17" target="kl-o_SOFlpKdgM1ggIpI-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kl-o_SOFlpKdgM1ggIpI-17" value="是否为本次请求" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="735" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kl-o_SOFlpKdgM1ggIpI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kl-o_SOFlpKdgM1ggIpI-22" target="kl-o_SOFlpKdgM1ggIpI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kl-o_SOFlpKdgM1ggIpI-22" value="获取每个文件信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
