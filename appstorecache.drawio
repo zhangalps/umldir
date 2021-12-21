@@ -1,41 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T09:31:11.368Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="hbpWWdRPJyjDS5lDghtb" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T05:57:11.440Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="HTo-dkzjp8y-HjCfjK3G" version="15.7.0" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="1350" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hYl3k4b92WwXlduXc9fn-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hYl3k4b92WwXlduXc9fn-19" target="hYl3k4b92WwXlduXc9fn-51">
+        <mxCell id="hYl3k4b92WwXlduXc9fn-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hYl3k4b92WwXlduXc9fn-61" target="hYl3k4b92WwXlduXc9fn-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hYl3k4b92WwXlduXc9fn-19" value="设置图片路径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="hYl3k4b92WwXlduXc9fn-61" value="get tag files" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hYl3k4b92WwXlduXc9fn-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hYl3k4b92WwXlduXc9fn-51" target="hYl3k4b92WwXlduXc9fn-53">
+        <mxCell id="hYl3k4b92WwXlduXc9fn-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hYl3k4b92WwXlduXc9fn-62" target="hYl3k4b92WwXlduXc9fn-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hYl3k4b92WwXlduXc9fn-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hYl3k4b92WwXlduXc9fn-51" target="hYl3k4b92WwXlduXc9fn-55">
+        <mxCell id="hYl3k4b92WwXlduXc9fn-62" value="delete tag files" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hYl3k4b92WwXlduXc9fn-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hYl3k4b92WwXlduXc9fn-63" target="hYl3k4b92WwXlduXc9fn-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hYl3k4b92WwXlduXc9fn-51" value="本地是否缓存" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="320" width="80" height="80" as="geometry" />
+        <mxCell id="hYl3k4b92WwXlduXc9fn-63" value="add tag files" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hYl3k4b92WwXlduXc9fn-53" value="设置本地缓存路径" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="470" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hYl3k4b92WwXlduXc9fn-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hYl3k4b92WwXlduXc9fn-55" target="hYl3k4b92WwXlduXc9fn-57">
+        <mxCell id="hYl3k4b92WwXlduXc9fn-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hYl3k4b92WwXlduXc9fn-64" target="hYl3k4b92WwXlduXc9fn-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hYl3k4b92WwXlduXc9fn-55" value="请求网络获取图片数据" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="hYl3k4b92WwXlduXc9fn-64" value="update tag files" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hYl3k4b92WwXlduXc9fn-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hYl3k4b92WwXlduXc9fn-57" target="hYl3k4b92WwXlduXc9fn-59">
+        <mxCell id="hYl3k4b92WwXlduXc9fn-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hYl3k4b92WwXlduXc9fn-65" target="hYl3k4b92WwXlduXc9fn-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hYl3k4b92WwXlduXc9fn-57" value="保存到本地缓存目录" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="hYl3k4b92WwXlduXc9fn-65" value="get cache database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hYl3k4b92WwXlduXc9fn-59" value="更新图片路径" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="610" width="120" height="60" as="geometry" />
+        <mxCell id="hYl3k4b92WwXlduXc9fn-67" value="cache database datas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hYl3k4b92WwXlduXc9fn-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hYl3k4b92WwXlduXc9fn-69" target="hYl3k4b92WwXlduXc9fn-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYl3k4b92WwXlduXc9fn-69" value="delete sqlite" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hYl3k4b92WwXlduXc9fn-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hYl3k4b92WwXlduXc9fn-71" target="hYl3k4b92WwXlduXc9fn-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYl3k4b92WwXlduXc9fn-71" value="update cache datas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hYl3k4b92WwXlduXc9fn-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hYl3k4b92WwXlduXc9fn-74" target="hYl3k4b92WwXlduXc9fn-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYl3k4b92WwXlduXc9fn-74" value="add sqlite" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hYl3k4b92WwXlduXc9fn-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hYl3k4b92WwXlduXc9fn-78" target="hYl3k4b92WwXlduXc9fn-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYl3k4b92WwXlduXc9fn-78" value="update sqlite" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hYl3k4b92WwXlduXc9fn-82" value="&lt;font style=&quot;font-size: 14px&quot;&gt;ui&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="100" width="770" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hYl3k4b92WwXlduXc9fn-83" value="&lt;font style=&quot;font-size: 15px&quot;&gt;tagmanager&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="260" width="770" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
